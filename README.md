@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-West Nile virus (WNV) is a mosquito-borne flavivirus of public health and veterinary importance. This study focuses on West Nile virus lineage 2 (WNV-L2), investigating envelope (E) protein amino-acid substitutions and selection pressures across historical and novel geographical ranges.
+West Nile virus (WNV) is a mosquito-borne flavivirus of public health and veterinary importance. This study focuses on West Nile virus lineage 2, investigating envelope (E) protein amino-acid substitutions and selection pressures across historical and novel geographical ranges.
 
 The study compares two geographically defined groups:
 
