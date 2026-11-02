@@ -1,0 +1,37 @@
+Envelope CDS extraction QC report
+Sequences written:  229
+  of which partial/truncated fragments: 28
+Sequences excluded: 1
+
+Partial/truncated fragments included (verify these suit your analysis):
+  OL790160.1
+  OL790161.1
+  OL790162.1
+  OL790164.1
+  OL790163.1
+  OL790165.1
+  OL411963.1
+  OL411964.1
+  OL411965.1
+  OL411966.1
+  MW383509.1
+  OL411967.1
+  MW436414.1
+  MW436415.1
+  MW436416.1
+  MW436417.1
+  MW436418.1
+  MW436419.1
+  MW436420.1
+  KJ131504.1
+  AY839589.1
+  AF394221.1
+  KX129740.1
+  KX129741.1
+  KC131126.1
+  KC131127.1
+  MF462262.1
+  KC131128.1
+
+Excluded sequences:
+PX289511.1	premature stop codon at codon 8 (likely frameshift/assembly artifact)
