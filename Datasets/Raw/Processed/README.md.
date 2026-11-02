@@ -11,7 +11,6 @@ This directory contains processed datasets generated during the WNV Lineage 2 re
 
 - `WNV_L2_Nextclade_results.csv` – Sequence classification and quality-control results.
 - `WNV_L2_filtered_metadata.csv` – Metadata for filtered sequences.
-- `WNV_L2_quality_control_summary.csv` – Summary of quality-control results.
 
 ## 3. Envelope Analysis
 
