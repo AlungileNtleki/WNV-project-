@@ -1,4 +1,4 @@
-# Comparative analysis of Envelope protein amino-Acid substitutions in West Nile Virus Lineage 2 across historical and novel geographical ranges
+# Comparative analysis of Envelope protein amino-Acid substitutions in West Nile Virus Lineage 2 across historical and novel geographical settings
 
 ## Project Overview
 
